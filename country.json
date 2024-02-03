@@ -1,0 +1,7 @@
+{
+    "country": "India",
+    "continent": "Asia",
+    "population":30000000,
+    "capital":"New Delhi"
+    "weather":["hot", "cold"]
+}
